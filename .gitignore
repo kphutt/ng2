@@ -1,0 +1,3 @@
+
+#Compiled TypeScript files should not be added.
+*.js
