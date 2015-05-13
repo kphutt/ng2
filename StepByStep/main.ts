@@ -1,4 +1,5 @@
 import {Component, View, bootstrap} from 'angular2/angular2';
+import {ComponentAnnotation as Component, ViewAnnotation as View}
 
 @Component({
   selector: 'my-app'
